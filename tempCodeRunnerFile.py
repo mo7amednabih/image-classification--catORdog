@@ -1,0 +1,1 @@
+counter += 1 if (a.argmax() % 2 == 0 and i <= 3) or (a.argmax() % 2 == 1 and i > 3) else 0
